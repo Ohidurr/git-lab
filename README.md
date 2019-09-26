@@ -41,7 +41,7 @@
 ~/repos/website/README.md
  For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
-This is a line ----- _____ ------
+This is a line ----- _____ ------ .....
 ```
 
 2. Commit your change with an appropriate message. Why not?
